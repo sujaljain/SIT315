@@ -1,12 +1,3 @@
-void setup() {
-  // put your setup code here, to run once:
-
-}
-
-void loop() {
-  // put your main code here, to run repeatedly:
-
-}// Define the pin connected to the motion sensor
 const int motionSensorPin = 2;
 
 void setup() {
